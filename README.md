@@ -1,1 +1,1 @@
-# covid19-fake-news-detection
+# covid19-fake-posts-detection
